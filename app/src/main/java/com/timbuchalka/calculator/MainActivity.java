@@ -169,6 +169,6 @@ public class MainActivity extends AppCompatActivity {
         newNumber.setText("");
     }
     Public Sring returnName() {
-        return "Tim was here";
+        return "Mor was here";
     }
 }
